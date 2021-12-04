@@ -67,6 +67,9 @@ header {
     flex-wrap: wrap;
     left: 13px;
   }
+  #hero h2{
+    margin-top: 50px;
+      }
 }
 
 .logo {
